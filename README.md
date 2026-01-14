@@ -37,3 +37,9 @@ como el **tiempo promedio de flujo**, **throughput** y **tiempo de ejecución**.
 ---
 
 ## 📂 Estructura del proyecto
+
+data/ → Datasets (pequeño, mediano y grande)
+src/ → Código fuente
+notebooks/ → Exploración inicial
+results/ → Resultados generados
+main.py → Script principal
